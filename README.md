@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <p style="text-align: center;">Текст по центру</p>
-  <h1>Привет, я [Ваше Имя]! 👋</h1>
+  <h1>Привет, я Марат! 👋</h1>
   <p>
-    <strong>Разработчик</strong> | <strong>Энтузиаст технологий</strong>
+    <strong>Java-разработчик</strong>
   </p>
   
   <img src="https://raw.githubusercontent.com/[ваш-ник]/[репозиторий]/main/assets/profile.jpg" alt="Профиль" width="200" style="border-radius: 50%;">
@@ -13,12 +13,11 @@
 <!-- О СЕБЕ -->
 ## 📋 Обо мне
 
-Я увлечённый разработчик с опытом в **[укажите направления: веб-разработка, мобильные приложения, Data Science и т. д.]**. Люблю создавать эффективные и элегантные решения для сложных задач.
+Я энтузиаст с пока что небольшим опытом в разработке приложений, но опыт как говорится дело наживное. Люблю создавать эффективные и элегантные решения для сложных задач.
 
 **Что я делаю:**
-- Разрабатываю веб‑приложения на **[React/Vue/Angular/Django/Spring и т. п.]**.
-- Пишу чистый и поддерживаемый код.
-- Участвую в open‑source проектах.
+- Разрабатываю веб‑приложения на **[Java/Spring]**.
+- Пишу чистый, современный и поддерживаемый код.
 - Изучаю новые технологии и делюсь знаниями.
 
 **Мои ценности:**
@@ -60,18 +59,9 @@
 
 Здесь собраны некоторые из моих лучших работ. Больше проектов — в разделе [репозитории](https://github.com/[ваш-ник]).
 
-1. **[Название проекта 1]**  
+1. **[Payment-service]**  
    *Краткое описание: что делает проект, какие технологии использованы.*  
    [Ссылка на проект](https://github.com/maratVard/IprodyMicroservicesNew.git)
-
-
----
-
-<!-- АКТИВНОСТЬ -->
-## 📈 Моя активность на GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ваш-ник]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ваш-ник]&layout=compact&theme=radical)
 
 ---
 
@@ -83,20 +73,17 @@
 <a href="mailto:[petrosianmav@gmail.com]">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://t.me/[@petrosianmv]">
+<a href="https://t.me/[petrosianmv]">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://linkedin.com/in/[ваш-ник]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ---
 
 ## ☕ Чем я увлекаюсь
 
-- Чтение технической литературы и блогов.
+- IT-технологиями
+- Чтение литературы и блогов.
 - Участие в хакатонах и митапах.
-- Создание side‑проектов для саморазвития.
-- Путешествия и фотография.
+- Создание проектов для саморазвития.
 
 Спасибо, что заглянули! ✨
