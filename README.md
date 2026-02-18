@@ -4,9 +4,6 @@
   <p>
     <strong>Java-разработчик</strong>
   </p>
-  
-  <img src="https://raw.githubusercontent.com/[ваш-ник]/[репозиторий]/main/assets/profile.jpg" alt="Профиль" width="200" style="border-radius: 50%;">
-</div>
 
 ---
 
