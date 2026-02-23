@@ -56,10 +56,17 @@
 
 Здесь собраны некоторые из моих лучших работ. Больше проектов — в разделе [репозитории](https://github.com/[ваш-ник]).
 
-1. **[Payment-service]**  
-   *Краткое описание: что делает проект, какие технологии использованы.*  
+1. **Payment-service**  
+   Проект с микросервисной архитектурой, с использованием современных технологий -
+   Java, SQL, Spring Boot, Git, Docker, Kubernetes, Hibernate, Kafka, RabbitMQ, CI/CD, REST и другие современные технологии. 
    [Ссылка на проект](https://github.com/maratVard/IprodyMicroservicesNew.git)
-
+2. **REST-server**
+   Сервер выполненный в архитектурном стиле REST.
+   [Ссылка на проэкт](https://github.com/maratVard/REST-API.git)
+   Java, SQL, Spring Boot, Git, Hibernate, Docker, Kafka, Unit, Mockito и другие современные технологии.
+3.**Telegram Bot**
+   Простой Тг-бот.
+   [Ссылка на проэкт](https://github.com/maratVard/Java-Tg-Bot.git)
 ---
 
 <!-- СВЯЖИТЕСЬ СО МНОЙ -->
@@ -78,7 +85,7 @@
 
 ## ☕ Чем я увлекаюсь
 
-- IT-технологиями
+- IT-технологиями.
 - Чтение литературы и блогов.
 - Участие в хакатонах и митапах.
 - Создание проектов для саморазвития.
