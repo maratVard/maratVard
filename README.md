@@ -64,7 +64,7 @@
    Сервер выполненный в архитектурном стиле REST.
    [Ссылка на проэкт](https://github.com/maratVard/REST-API.git)
    Java, SQL, Spring Boot, Git, Hibernate, Docker, Kafka, Unit, Mockito и другие современные технологии.
-3.**Telegram Bot**
+3. **Telegram Bot**
    Простой Тг-бот.
    [Ссылка на проэкт](https://github.com/maratVard/Java-Tg-Bot.git)
 ---
