@@ -1,6 +1,6 @@
 <!-- HEADER -->
-<p style="text-align: center;">Текст по центру</p>
-  <h1>Привет, я Марат! 👋</h1>
+<p style="text-align: center;">
+  <h1>Привет, я Марат! </h1>
   <p>
     <strong>Java-разработчик</strong>
   </p>
