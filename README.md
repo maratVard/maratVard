@@ -1,9 +1,7 @@
 <!-- HEADER -->
 <p style="text-align: center;">
-  <h1>Привет, я Марат! </h1>
-  <p>
-    <strong>Java-разработчик.</strong>
-  </p>
+  <h1>Привет, я Марат!
+  Java-разработчик.</h1>
 
 ---
 
