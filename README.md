@@ -9,10 +9,6 @@
 
 ## 💻 Мой стек
 
-![SQL](https://img.shields.io/badge/SQL-4488AC?style=for-the-badge&logo=mysql&logoColor=white) — язык запросов для работы с реляционными базами данных.
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) — фреймворк для упрощения разработки Java‑приложений.
-![Hibernate](https://img.shields.io/badge/Hibernate-59B288?style=for-the-badge&logo=hibernate&logoColor=white) — ORM‑библиотека для работы с базами данных в Java.
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4488AC?style=for-the-badge&logo=mysql&logoColor=white)
