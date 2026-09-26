@@ -9,7 +9,7 @@
 
 ## 💻 Мой стек
 
-Java 17 / Spring Boot / PostgreSQL / Kafka / Docker / Kubernetes
+**Java 17 / Spring Boot / PostgreSQL / Kafka / Docker / Kubernetes**<br>
 Разработка REST API, микросервисов, интеграций, асинхронного взаимодействия и тестирование.
 
 <!-- ПРОЕКТЫ -->
