@@ -9,7 +9,8 @@
 
 ## 💻 Мой стек
 
-Java, SQL, Spring, Spring Boot, Maven, Gradle, JPA, Hibernate, Liquibase, Docker, Kubernetes, Kafka, RabbitMQ, JUnit, Mockito, Redis, Swagger, Git, GitHub Actions, GitLab CI, Atlassian, Jira, Confluence, Trello.
+Java 17 / Spring Boot / PostgreSQL / Kafka / Docker / Kubernetes
+Разработка REST API, микросервисов, интеграций, асинхронного взаимодействия и тестирование.
 <!---![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4488AC?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,13 +39,6 @@ Java, SQL, Spring, Spring Boot, Maven, Gradle, JPA, Hibernate, Liquibase, Docker
    Проект с микросервисной архитектурой,
    Java, SQL, Spring Boot, Git, Docker, Kubernetes, Hibernate, Kafka, RabbitMQ, CI/CD, REST...  
    [Ссылка на проект](https://github.com/maratVard/IprodyMicroservicesNew.git)
-2. **REST-server**  
-   Сервер выполненный в архитектурном стиле REST.  
-   [Ссылка на проэкт](https://github.com/maratVard/REST-API.git)
-   Java, SQL, Spring Boot, Git, Hibernate, Docker, Kafka, Unit, Mockito...
-3. **Telegram Bot**  
-   Простой Тг-бот.  
-   [Ссылка на проэкт](https://github.com/maratVard/Java-Tg-Bot.git)
 ---
 
 <!-- СВЯЖИТЕСЬ СО МНОЙ -->
